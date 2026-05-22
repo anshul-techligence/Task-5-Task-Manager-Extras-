@@ -1,4 +1,4 @@
-# TaskFlow
+# Task Manager
 
 A full-stack task manager with JWT authentication, role-based access control, and a dark-themed UI. Built with Node.js/Express on the backend and vanilla JS + Tailwind CSS on the frontend.
 
